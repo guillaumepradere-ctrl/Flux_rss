@@ -1,12 +1,16 @@
-[
-        {
-            "entity":"GOOGL",
-            "price": 2155.85,
-            "time": 1653603843766
-        },
-        {
-            "entity":"AAPL",
-            "price": 143.78,
-            "time":1653603943766
-        }
-    ]
+{
+  "items": [
+    {
+      "title": "Commentaire N°1",
+      "link": "https://example.com/item1",
+      "date": "2025-03-21T10:00:00Z",
+      "description": "Ceci est un message de test complet pour Grafana."
+    },
+    {
+      "title": "Message de test n°2",
+      "link": "https://example.com/item2",
+      "date": "2025-03-22T14:30:00Z",
+      "description": "Deuxième message affiché dans Grafana."
+    }
+  ]
+}
