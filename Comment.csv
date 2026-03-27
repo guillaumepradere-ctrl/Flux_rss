@@ -1,225 +1,229 @@
 ID,Heure de début,Heure de fin,E-mail,Nom,Centrales,Type,Commentaire,Mois,Code,Colonne1
-13.0,2025-03-04 09:17:51,2025-03-04 09:18:05,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Exemple Janvier 2025,1.0,CondatsolA20251,2025.0
-14.0,2025-03-04 09:59:58,2025-03-04 10:00:40,etienne.letournel@newheat.fr,Etienne Letournel,SOLTHERMALT,O&M,,,SOLTHERMALTA2025,2025.0
-15.0,2025-05-05 10:26:27,2025-05-05 10:27:18,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Réalisation visite simple semestrielle de maintenance,4.0,CondatsolA20254,2025.0
-16.0,2025-05-05 10:27:22,2025-05-05 10:27:41,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,RAS,4.0,CondatsolB20254,2025.0
-17.0,2025-05-05 10:27:44,2025-05-05 10:29:58,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,Problème de pression sur la boucle fourniture. Problème en cours de résolution par DALKIA (changement membrane vase expansion). Remplacement sonde pression défectueuse. ,4.0,SOLTHERMALTA20254,2025.0
-18.0,2025-05-05 10:31:28,2025-05-05 10:33:42,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Echange entre BIZ DEV et KYOTHERM début avril. Demande d'explication sur les performances de la centrale de la part de KYOTHERM.,4.0,SOLTHERMALTB20254,2025.0
-,,,,,,,Analyse et présentation en cours de préparation par équipe exploitation,,,
-19.0,2025-05-05 10:34:15,2025-05-05 10:36:03,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Nettoyage des capteurs.,4.0,EMASOLA20254,2025.0
-,,,,,,,Arrêt biomasse et passage en fonctionnement été le 07/04.,,,
-,,,,,,,Arrêt du RCU pendant 2 jours pour travaux DALKIA.,,,
-,,,,,,,NB : problème de remontée de données depuis fin du mois. Fourniture mois avril à consolider après récupération des données (+/- 10 MWh supplémentaire),,,
-20.0,2025-05-05 10:36:39,2025-05-05 10:38:04,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,Préparation d'une analyse de fonctionnement de la nouvelle régulation de pilotage vanne 3 voies biomasse. Transmission à DALKIA prévue courant mai.,4.0,EMASOLB20254,2025.0
-,,,,,,,Avenant contrat en cours de rédaction (révision NGAM en cohérence avec l'enlèvement réel du RCU + modification du principe de calcul des pénalités),,,
-21.0,2025-05-05 10:38:08,2025-05-05 10:38:55,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,RAS,4.0,NARBOSOLA20254,2025.0
-22.0,2025-05-05 10:39:02,2025-05-05 10:39:09,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,4.0,NARBOSOLB20254,2025.0
-23.0,2025-05-05 10:39:11,2025-05-05 10:41:51,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,Travaux piquage boucle fourniture pour ajout intégration échangeur CTA.,4.0,LACTOSOLA20254,2025.0
-,,,,,,,1 capteur fuyant. BYPASS en place. Demande de prise en charge par MERIAURA envoyée.,,,
-,,,,,,,Appoint glycol boucle solaire pour ajustement pression. ,,,
-24.0,2025-05-05 10:41:54,2025-05-05 10:45:52,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Echange avec LSF pour le projet CTA. Incompréhension entre LSF et NH sur le partage financier des travaux à réaliser côté installation de LSF. Etudes en cours côté ACTEMIUM & LSF pour valider les travaux côté circuit CTA de LSF.,4.0,LACTOSOLB20254,2025.0
-,,,,,,,Planning prévisionnel mise en service échangeur CTA = début juillet (sous réserve de confirmation d'ACTEMIUM).,,,
-,,,,,,,"Côté production, très bon début avril au niveau des prévisions BP. Deuxième moitié avril moins productive à cause météo + arrêt fourniture pour travaux. ",,,
-25.0,2025-04-06 09:17:17,2025-04-06 09:18:16,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,RAS,5.0,CondatsolA20255,2025.0
-26.0,2025-04-06 09:18:18,2025-04-06 09:18:35,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Rdv réalisé avec le service HSE pour l'optimisation des OPEX environnementaux. Sera opérationnel en 2026,5.0,CondatsolB20255,2025.0
-27.0,2025-04-06 09:18:37,2025-04-06 09:20:54,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,Problème sur vessie vase expansion supply. Intervention programmée par DALKIA.,5.0,SOLTHERMALTA20255,2025.0
-,,,,,,,Travaux de raccordement filaire pour synthèe de marche des ventilateurs et de la consigne de température d'air des batteries solaires sur le coffret déporté de la Tour afin de palier aux problèmes de COM entre API solaire et usine. ,,,
-28.0,2025-04-06 09:20:55,2025-04-06 09:25:37,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Transmission rapport performance 2021 - 2025 à Kyotherm. Données 2025 confirment que l'installation reste performante et que la baisse de fourniture en 2024 s'explique avant tout par une météo moins favorable.,5.0,SOLTHERMALTB20255,2025.0
-,,,,,,,Kyotherm indique ses inquiétudes sur la rentabilité du projet (baisse productible et augmentation cout OPEX avec les batteries). Kyotherm demande d'optimiser les couts d'exploitation et de surveiller l'enlèvement client. ,,,
-29.0,2025-04-06 09:25:38,2025-04-06 09:26:06,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,RAS,5.0,EMASOLA20255,2025.0
-30.0,2025-04-06 09:26:07,2025-04-06 09:26:25,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,Projet d'avenant pour modification du NGAM et gestion des pénalités sera transmis à Dalkia S23,5.0,EMASOLB20255,2025.0
-31.0,2025-04-06 09:26:26,2025-04-06 09:27:50,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,Défaut ponctuel sur sonde de température extérieure. Problème résolu. ,5.0,NARBOSOLA20255,2025.0
-32.0,2025-04-06 09:27:51,2025-04-06 09:36:24,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,Transmission du rapport perf à DALKIA pour mettre en évidence une température réseau globalement plus chaude que celle prévue en phase conception. Réunion prévue avec DALKIA le 6 juin pour évoquer le sujet.,5.0,NARBOSOLB20255,2025.0
-,,,,,,,La première réponse de DALKIA à chaud est qu'ils ne peuvent pas faire grand chose sur la température réseau et que les performances de la centrale sont malgré tout au niveau attendu du dossier ADEME (1910 MWh/an).,,,
-,,,,,,,A noter une différence de référence de cible à atteindre entre dossier ADEME (référence pour DALKIA) et BP Newheat (2300 MWh/an). Travail en cours au niveau de l'exploit pour redéfinir les références.,,,
-33.0,2025-04-06 09:36:28,2025-04-06 09:37:39,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,Complément pression boucle solaire environ 200L,5.0,LACTOSOLA20255,2025.0
-34.0,2025-04-06 09:37:41,2025-04-06 09:42:24,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Projet 4ème point intégration en cours. Accord de principe de LSF (confirmation de JOP) sur le montage du projet (budget et financement). En attente validation de KAMAL et service juridique sur sujet TVA et financement reste à charge LSF.,5.0,LACTOSOLB20255,2025.0
-,,,,,,,Le planning travaux n'est pas arrêté et sera définit une fois la signature de l'avenant. Prévision actuelle pour travaux en aout/septembre et MES en septembre.  ,,,
-35.0,2025-01-07 15:41:33,2025-01-07 15:51:33,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,O&M,Réalisation de la maintenance annuelle. Equilibrage hydraulique du champ solaire.,6.0,CondatsolA20256,2025.0
-,,,,,,,Petites fuites identifiées et réparées sur vanne entrée rangée et filtre à poche CS.,,,
-,,,,,,,"Pompe glycol désamorcée, inter PE pour dépannage.",,,
-,,,,,,,Retour des alarmes perte de comm (CS et trackers).,,,
-36.0,2025-01-07 15:51:39,2025-01-07 15:52:19,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,AM,RAS,6.0,CondatsolB20256,2025.0
-37.0,2025-01-07 15:52:20,2025-01-07 15:53:06,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,AM,"Départ de Fouad, notre contact QM chez Kyotherm.",6.0,SOLTHERMALTB20256,2025.0
-38.0,2025-01-07 15:53:08,2025-01-07 15:53:41,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,AM,RDV avec Dalkia au sujet des problèmes de fonctionnement RCU et de la prolongement de l'avenant réévalution prix de chaleur (devrait être signé cet été).,6.0,EMASOLB20256,2025.0
-39.0,2025-01-07 15:53:42,2025-01-07 15:54:07,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,AM,"RDV avec Dalkia pour bilan des 1ères années et évoquer les améliorations possible du fonctionnement côté RCU. Bilan : pas beaucoup de marge de manœuvre, Dalkia indique que la CDC utilisée en phase projet n'était pas représentative d'un fonctionnement normal.",6.0,NARBOSOLB20256,2025.0
-40.0,2025-01-07 15:54:21,2025-01-07 15:54:42,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,AM,Sujet 4ème point qui traine en raison de points admin et d'un manque de réactivité côté LCT.,6.0,LACTOSOLB20256,2025.0
-41.0,2025-01-07 15:54:44,2025-01-07 15:55:43,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,O&M,Perte totale des accès distants (PC automate et PC supervision). Seul le firewall répond.,6.0,EMASOLA20256,2025.0
-,,,,,,,"Demande d'intervention à Dalkia : automate et supervision fonctionnels sur site avec pompes en marche donc alim 24V fonctionnelle et pas de surchauffe -> Reboot de la box internet, du firewall et du switch -> Accès distants rétablis.",,,
-42.0,2025-01-07 15:55:45,2025-01-07 15:56:27,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,O&M,Réalisation de la visite complète annuelle de maintenance.,6.0,NARBOSOLA20256,2025.0
-,,,,,,,Equilibrage hydraulique du champ solaire.,,,
-,,,,,,,Coupure électrique générale. Retour à la normale sans intervention après quelques minutes.,,,
-43.0,2025-01-07 17:08:25,2025-01-07 17:08:47,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,O&M,Réalisation de la visite de maintenance annuelle.,6.0,LACTOSOLA20256,2025.0
-,,,,,,,"dilato aérotherme en mauvaise état, à remplacer.",,,
-,,,,,,,Identification d'une fuite sur le tuyau de raccordement en haut de cuve au niveau de la vanne de sectionnement en extérieur. Demande chiffrage travaux ACTEMIUM & HERVE THERMIQUE en cours.,,,
-44.0,2025-01-07 17:10:34,2025-01-07 17:17:53,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,O&M,"Deux sondes sont en défaut (débitmètre et sonde de pression), probablement à cause de faux contacts, avec une intervention de Dalkia.",6.0,SOLTHERMALTA20256,2025.0
-,,,,,,,Supervision figée (en après-midi) --> reboot PC Automate (en soirée) car plantage à cause de problèmes de calculs (problème de division) --> Pression circuit solaire très basse (le lendemain) --> Purge de l'installation + remplissage avec appoint glycol --> Détection d'un capteur fuyard et rangée isolée.,,,
-,,,,,,,Plusieurs arrêts de process ont été causés par des épisodes de fortes chaleurs entraînant une dilatation anormale du gaz et des défauts sur la chaufferie.,,,
-45.0,2025-01-09 09:04:14,2025-01-09 09:04:37,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,- nettoyage filtres capteurs. Constat encrassement anormal des 3 dernières rangées. Prise d'échantillon pour analyse + demande de nettoyage régulier des filtres à PE.,8.0,CondatsolA20258,2025.0
-46.0,2025-01-09 09:04:42,2025-01-09 09:04:48,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,- Arrêt usine début Août pour 1 semaine environ,8.0,CondatsolB20258,2025.0
-,,,,,,,- Incertitude sur arrêt définitif usine fin 2025 (article presse Ici Perrigord),,,
-47.0,2025-01-09 09:05:06,2025-01-09 09:05:25,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,- 1 nouveau capteur fuyard. Perte environ 1 m3 glycol. Total de 2 rangées bypassées (11 & 47),8.0,SOLTHERMALTA20258,2025.0
-,,,,,,,- Remise en service des 2 rangées bypassées après installation des bypass capteurs (Total de 3 capteurs bypassés sur l'ensembe du CS),,,
-,,,,,,,- Demande d'intervention faite à SAVOSOLAR pour expertise sur capteurs fuyards,,,
-,,,,,,,- Coupure générale électricité suite à orage. Cordon chauffant source du problème. Court circuit sur vanne VMR PRI 2 HS. Prise en manu des vannes solaires pour garantir une circulation vers l'échangeur,,,
-48.0,2025-01-09 09:05:28,2025-01-09 09:05:36,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,- RAS,8.0,SOLTHERMALTB20258,2025.0
-49.0,2025-01-09 09:07:50,2025-01-09 09:08:49,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,- Arrêt manuel d'une pompe SUPPLY pour limiter conso électrique,8.0,EMASOLA20258,2025.0
-,,,,,,,- Manque données index compteur énergie fin du mois suite à problème d'enregistrement des données,,,
-50.0,2025-01-09 09:08:51,2025-01-09 09:14:02,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,- Echange avec DALKIA suite au non paiement de la dernière facture de chaleur. DALKIA demande de na pas appliquer les pénalités car ils estiment avoir déjà fait des ajustements sur la conduite du réseau. Facture payée finalement fin Août suite échange pour expliquer la nautre des pénalités (température RCU trop haute à cause du surdébit RCU),8.0,EMASOLB20258,2025.0
-,,,,,,,- Diminution du débit RCU (50 m3/h contre 80 m3/h en juin 2025) ==> limitation conso électrique,,,
-,,,,,,,- Baisse consigne température départ RCU ==> devrait améliorer la fourniture,,,
-,,,,,,,- Avenant en cours de signature,,,
-51.0,2025-01-09 09:15:47,2025-01-09 09:17:09,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,- gestion de la période de canicule avec ouverture manuelle des portes du SKID solaire. REX ==> besoin d'une meilleure ventilation des SKID en cas de forte chaleur (risque de défaut des composants élec),8.0,NARBOSOLA20258,2025.0
-52.0,2025-01-09 09:17:10,2025-01-09 09:17:17,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,- RAS,8.0,NARBOSOLB20258,2025.0
-53.0,2025-01-09 09:17:19,2025-01-09 09:19:13,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,- gestion de la période de canicule avec ouverture manuelle des portes du SKID solaire. REX ==> besoin d'une meilleure ventilation des SKID en cas de forte chaleur (risque de défaut des composants élec),8.0,LACTOSOLA20258,2025.0
-,,,,,,,- Pression CS haute en pleine journée avec ouverture des soupapes ==> nettoyage des filtres CS à prévoir,,,
-,,,,,,,- Dégradation constatée sur 2 nouveaux dilato ==> remplacement prévus (Total de 11 dilatos remplacés depuis juin 2025),,,
-54.0,2025-01-09 09:19:16,2025-01-09 09:20:53,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,- Arrêt technique 1 semaine début Août + faible niveau de conso (pas de matière première chez LSF),8.0,LACTOSOLB20258,2025.0
-,,,,,,,- Contrat 4eme point intégration signé. Passage de commande OK. Lancement travaux préparatoire. ,,,
-55.0,2025-01-09 09:42:28,2025-01-09 09:49:27,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,- Mise en service de l'installation,8.0,AUITOUA20258,2025.0
-,,,,,,,- Formation équipe exploitation pour prise en main de l'installation,,,
-,,,,,,,- Recherche mainteneur local pour établissement contrat de maintenance,,,
-56.0,2025-01-09 09:49:29,2025-01-09 09:50:25,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,"- Finalisation mise en service en cours par équipe EPCC avec quelques ajustements de l'interface API solaire - API client (gestion surchauffe, table d'échange, etc)",8.0,AUITOUB20258,2025.0
-57.0,2025-01-10 11:03:35,2025-01-10 11:08:30,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Rapport d'analyse des dépôts reçu. Constitués à 90% d'oxydes d'aluminium. Point organisé avec BM pour position Newheat avant retour vers SAVO. ,9.0,CondatsolA20259,2025.0
-58.0,2025-01-10 11:08:35,2025-01-10 11:10:17,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Discussion avec Périgord Energie sur la situation de l'usine. A priori la recherche d'un repreneur du site est en cours. Divers articles de presse faisant état de la mauvaise santé financière de l'usine et du risque de fermeture d'ici fin d'année.,9.0,CondatsolB20259,2025.0
-59.0,2025-01-10 11:10:20,2025-01-10 11:12:11,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,Remplacement du servomoteur de la vanne VMR PRI 2 suite à défaut électrique fin août. Appoint glycol pour remonter la pression avec l'arrivée des premières nuits froides.,9.0,SOLTHERMALTA20259,2025.0
-,,,,,,,Investigation en cours sur performance champ solaire suite au constat de dérive de la fourniture mesurée par rapport à la cible recalée (plus de 10% d'écart). ,,,
-60.0,2025-01-10 11:12:15,2025-01-10 11:13:04,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Sollicité par KYOTHREM concernant la rédaction d'une réclamation commune vis à vis de SAVO concernant la quantité limitée de capteurs disponibles après arrêt usine (80 au total),9.0,SOLTHERMALTB20259,2025.0
-61.0,2025-01-10 11:13:07,2025-01-10 11:15:20,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Coupure courant ENEDIS le 11/09. Défaut sur vanne STO VMTOR 02. Remplacement du corps de vanne.,9.0,EMASOLA20259,2025.0
-62.0,2025-01-10 11:15:22,2025-01-10 11:15:29,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,Avenant complémentaire au dernier avenant prix de chaleur en cours de validation avec DALKIA,9.0,EMASOLB20259,2025.0
-63.0,2025-01-10 11:15:30,2025-01-10 11:17:25,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,Blocage vanne STO VMTOR 01 entrainant risque de surchauffe. Déblocage manuel de la vanne par Hervé thermique. Nouveau blocage de la vanne le 22/09. Remplacement corps de vanne en cours,9.0,NARBOSOLA20259,2025.0
-64.0,2025-01-10 11:17:26,2025-01-10 11:17:39,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,9.0,NARBOSOLB20259,2025.0
-65.0,2025-01-10 11:17:40,2025-01-10 11:29:03,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,Mois très compliqué sur LCT.,9.0,LACTOSOLA20259,2025.0
-,,,,,,,09/09 : fuite capteur constaté. Mise en place bypass capteur,,,
-,,,,,,,15/09 : changement dilatos dans station solaire + bypass d'une rangée suite à nouvelle fuite capteur,,,
-,,,,,,,23/09 : intervention équipe EXP sur site pour recherche d'une fuite. Identification d'un problème sur la vanne V3V de la rangée bypassée le 15/09 + resserrage d'une autre V3V qui fuyait,,,
-,,,,,,,29/09 : SURCHAUFFE STOP de l'installation suite à vidange importante du champ solaire depuis le samedi par la vanne V3V de la rangée bypassée. La vanne filtre 2 voies d'entrée de rangée s'est ouverte. Les alarmes n'ont pas été transmises à temps le weekend suite à un problème de saturation de l'automate probablement.,,,
-,,,,,,,,,,
-,,,,,,,Installation actuellement en SURCHAUFFE STOP. En attente livraison glycol pour remise en service.,,,
-66.0,2025-01-10 11:29:06,2025-01-10 11:30:24,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Projet 4eme point d'intégration au ralenti. Le prestataire ACTEMIUM est en attente de la commande officielle LSF pour lancer les travaux préparatoires. ,9.0,LACTOSOLB20259,2025.0
-67.0,2025-01-10 11:31:33,2025-01-10 11:33:20,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,Prise en main de l'installation par équipe exploitation.,9.0,AUITOUA20259,2025.0
-,,,,,,,29/09 : coupure de courant ENEDIS. Intervention CL sur site pour relance des pompes solaires qui n'ont pas redémarré avec le retour de l'alimentation électrique (problème variateur). Travaux en cours avec EPCC pour correction de ces problèmes,,,
-,,,,,,,Offre O&M de Hervé Thermique en cours de négociation car trop chère par rapport à cible,,,
-68.0,2025-01-10 11:33:22,2025-01-10 11:33:29,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,RAS,9.0,AUITOUB20259,2025.0
-69.0,2025-03-11 17:14:28,2025-03-11 17:18:10,thomas.verdier@newheat.fr,Thomas Verdier,AUITOU,AM,"Analyse en cours de réalisation sur perspective de performance de la centrale par rapport au constat du fonctionnement réel de l'installation sur les 2 premiers mois. Réunion interne NH prévue début novembre pour cadrer les échanges avec le client concernant les risques  de non atteinte des engagements de perf ADEME à cause des ""retours chauds"" vers le champ solaire en été.  ",10.0,AUITOUB202510,2025.0
-70.0,2025-03-11 17:18:13,2025-03-11 17:24:03,thomas.verdier@newheat.fr,Thomas Verdier,AUITOU,O&M,"En début de mois, Surchauffe STOP suite coupures de courant ENEDIS à répétition + accès distant à la supervision coupé. Les pompes n'ont pas redémarré car défauts discordances non acquittés.",10.0,AUITOUA202510,2025.0
-,,,,,,,,,,
-,,,,,,,"Dans un premier temps, remise en service partielle du champ solaire (5 rangées doubles restent isolées) en attente de livraison de glycol (délais 10 jours) puis dans un second temps, transfert de 4 IBC dans la cuve de rétention et remise en service des 10 rangées restées isolées suite à la première intervention.",,,
-,,,,,,,,,,
-,,,,,,,Formation auprès du Client sur le pilotage de l'installation solaire.,,,
-,,,,,,,,,,
-,,,,,,,Remise en fonctionnement de son GE afin d'assurer une redondance de l'alimentation électrique.,,,
-,,,,,,,,,,
-,,,,,,,"Crashs récurrents du PC IHM, Norealp sur le sujet avec analyse du PC auprès de Schneider pour comprendre la cause des crashs. Après analyse avec Pathtech également, il semblerait que les problématiques soient générées par l'environnement d'exécution de la stack Docker. Correctifs mis en place. Gain de fiabilité à suivre.",,,
-71.0,2025-03-11 17:24:06,2025-03-11 17:26:21,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,AM,"Courrier reçu par Condat détaillant la situation du site. Procédure de redressement judiciaire actée le 22 octobre 2025 par le Tribunal de Commerce de Bordeaux. Les factures seront payées au comptant, à leur réception (risque de délais rallongé pour paiement). La Finance se renseigne sur les pièces à produire pour la régularisation des créances avant cette date.",10.0,CondatsolB202510,2025.0
-72.0,2025-03-11 17:26:23,2025-03-11 17:27:10,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,O&M,RAS,10.0,CondatsolA202510,2025.0
-73.0,2025-03-11 17:27:11,2025-03-11 17:36:42,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,AM,Echanges démarrés avec KT sur un potentiel recours commun envers Savosolar sur deux sujets différents : stock limité de capteurs & défaut de conception observé,10.0,SOLTHERMALTB202510,2025.0
-74.0,2025-03-11 17:36:44,2025-03-11 17:42:13,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,O&M,Travaux entre Kyotherm et Meriaura sans implication NH.,10.0,SOLTHERMALTA202510,2025.0
-,,,,,,,Remplacement et expertise des 3 capteurs fuyards (2 sur Habitation et 1 sur Imprimerie),,,
-,,,,,,,Attention : Capteurs fuyards laissés au sol sur les champs solaires et déchets de chantier non nettoyés -> Information transmise à Kyotherm.,,,
-,,,,,,,Trois rangées isolées mais non remises en service après remplacement --> Dalkia occupé avec la remise en service du chauffage et la malterie.,,,
-,,,,,,,Entretien des Espaces Verts - 2ème passage sur l'année.,,,
-,,,,,,,Un perte de communication avec MFS et reboot armoire électrique déportée pour retrouver la communication.,,,
-75.0,2025-03-11 17:42:14,2025-03-11 17:43:14,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,O&M,Quelques appoints de glycol pour regonfler le circuit avec la chute des températures extérieures.,10.0,EMASOLA202510,2025.0
-76.0,2025-03-11 17:43:15,2025-03-11 17:43:21,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,AM,Toujours en attente de Dalkia concernant la finalisation de l'avenant complétant celui de révision du prix de chaleur (modification NGAM + application des pénalités).,10.0,EMASOLB202510,2025.0
-,,,,,,,,,,
-,,,,,,,Point réalisé avec Dalkia pour présenter pourquoi ils se font pénaliser (mauvaise conduite côté RCU). Des alarmes sont mises en place (débit RCU + T retour) pour les alerter dès qu'ils entrent dans les zones pénalisables.,,,
-77.0,2025-03-11 17:43:22,2025-03-11 17:43:49,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,AM,"450 matelas isolants ont été posés par DK cet été sur les échangeurs, pompes, vannes, clapets... et même dans notre station solaire. Les besoins du RCU vont donc diminuer légèrement. DK va ajuster les régimes de température et débit du RCU. DK est ouvert à une réflexion commune sur ce point pour optimiser l'enlèvement solaire.",10.0,NARBOSOLB202510,2025.0
-78.0,2025-03-11 17:43:51,2025-03-11 17:49:43,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,O&M,La vanne STO VMTOR 01 a un point dur lors de sa fermeture ce qui génère une alarme (pas de fin de course) qui bloque la transition entre les modes.,10.0,NARBOSOLA202510,2025.0
-,,,,,,,Découplage du servomoteur du corps de vanne et vanne laissée physiquement ouverte. Ainsi l'alarme n'est plus active.,,,
-,,,,,,,Le servomoteur faisait ces ouvertures et fermetures jusqu'à qu'il soit lui aussi HS. Réapparition de l'alarme.,,,
-,,,,,,,,,,
-,,,,,,,Commande passée pour remplacement de l'ensemble --> attente de livraison.,,,
-,,,,,,,,,,
-,,,,,,,Le programme automate a été modifié temporairement pour ne pas bloquer les transitions entre modes. Forçage signal fin de course ouverture et fermeture à 1 et forçage défaut à 0. ,,,
-79.0,2025-03-11 17:49:47,2025-03-11 17:50:14,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,AM,Réunion calage travaux 4eme point intégration prévue en S47 avec ACTEMIUM et LSF. Le chargé travaux LSF dit avoir plus de temps pour s'occuper du projet. Objectif : travaux début 2026. ,10.0,LACTOSOLB202510,2025.0
-80.0,2025-03-11 17:50:15,2025-03-11 17:50:41,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,O&M,"Remise en service de l'installation suite à surchauffe. Opération réalisée en 2 temps car manque de glycol pour remplissage du CS en 1 seule fois. En parallèle, remplacement de 4 capteurs par Savo + livraison des capteurs spare. Suite à l'opération, l'ensemble du CS est opérationnel.",10.0,LACTOSOLA202510,2025.0
-,,,,,,,,,,
-,,,,,,,Constat que les panoplies en entrée rangée capteur ont souffert. Manque de filasse sur certaines avec très légers suintement. Campagne de reprise à prévoir cet hiver.,,,
-,,,,,,,,,,
-,,,,,,,Réception de 15 m3 de glycol.,,,
-81.0,2025-01-12 15:36:03,2025-01-12 15:37:00,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Vérification du maintien en état de conformité des installations électriques ERT,11.0,CondatsolA202511,2025.0
-,,,,,,,"Réamorçage de la pompe d'appoint de glycol et appoint pour réhausser la pression en amont des pompes primaire de 1,9 à 2,5 bars. (environ 500L)",,,
-82.0,2025-01-12 15:37:02,2025-01-12 15:38:16,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,"Information de Mathieu Introvigne (groupe LECTA) : ""A ce jour, nous prévoyons de fonctionner en décembre et janvier sans arrêt prévu de la chaudière.",11.0,CondatsolB202511,2025.0
-,,,,,,,"La situation fait que l’organisation et les décisions peuvent évoluées malgré tout.""",,,
-,,,,,,,,,,
-,,,,,,,"Factures gelées pré-RJ le 22/10, soit T2, T3 et une partie de T4",,,
-83.0,2025-01-12 15:38:20,2025-01-12 15:39:14,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,"Suppression des bypass et mise en service des nouveaux capteurs sur rangées 11, 47 et 64.",11.0,SOLTHERMALTA202511,2025.0
-,,,,,,,Appoint glycol avec arrivée des jours froids,,,
-84.0,2025-01-12 15:39:18,2025-01-12 15:43:06,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Rapport de performance envoyé à Kyotherm. Mise en avant d'un besoin de nettoyage début 2026. ,11.0,SOLTHERMALTB202511,2025.0
-85.0,2025-01-12 15:43:07,2025-01-12 15:45:31,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Appoint glycol avec arrivée des températures froides.,11.0,EMASOLA202511,2025.0
-,,,,,,,Quelques perturbations côté RCU suite à problème sur leur automate Johnson Control après un problème électrique.,,,
-,,,,,,,Réalisation de la visite simple de maintenance avec formation du nouveau technicien Dalkia.,,,
-86.0,2025-01-12 15:45:39,2025-01-12 15:45:45,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,RAS,11.0,EMASOLB202511,2025.0
-87.0,2025-01-12 15:45:56,2025-01-12 15:48:20,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,Appoint glycol avec arrivée des jours froids,11.0,NARBOSOLA202511,2025.0
-,,,,,,,Remplacement vanne STO VMTOR01,,,
-,,,,,,,"Visite de site : présence souris dans le SKID, avec calorifuge grignoté. Installation piège à souris",,,
-,,,,,,,Contrôle et ajustement de l'équilibrage du champ solaire.,,,
-88.0,2025-01-12 15:48:24,2025-01-12 15:48:30,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,11.0,NARBOSOLB202511,2025.0
-89.0,2025-01-12 15:48:43,2025-01-12 15:51:06,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,Appoint glycol suite à arrivée des jours froids,11.0,LACTOSOLA202511,2025.0
-,,,,,,,Appoint eau adoucie réalisé sur boucle supply. Pas de fuite identifiée pour le moment. Pression à contrôler,,,
-,,,,,,,Nettoyage des filtres entrée de rangées. Taux d'encrassement encore assez élevé suite à surchauffe stop d'octobre 2025,,,
-90.0,2025-01-12 15:51:08,2025-01-12 15:51:53,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Projet raccordement 4eme point intégration définitivement lancé.,11.0,LACTOSOLB202511,2025.0
-,,,,,,,Mise en service prévue en S7 2026,,,
-91.0,2025-01-12 15:52:01,2025-01-12 15:54:47,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,SURCHAUFFE STOP évitée le 05/11 suite à problème électrique sur le TGBT du bâtiment chaufferie. Pilotage en manu de l'installation par équipe exploitation qui a permis de relancer l'installation malgré le déclenchement de la SURCHAUFFE STOP sur quelques minutes.,11.0,AUITOUA202511,2025.0
-,,,,,,,Visite de site par EL et CL pour vérifier équilibrage champ solaire suite à identification de 2 rangées fermées non réouvertes après la SURCHAUFFE STOP de septembre 2025. Réalisation petits travaux annexes dans la lignée de la réception du site.,,,
-92.0,2025-01-12 15:54:48,2025-01-12 15:57:20,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,"Coordination EXP, EPCc et BIS DEV sur stratégie de communication au client d'un risque de non atteinte des objectifs ADEME car température retour vers champ solaire beaucoup plus chaud que prévue. EXP réalise des études de sensibilité à présenter au client pour illustrer la baisse de perf en fonction de ses températures de retour et pour l'inciter à travailler sur son process.",11.0,AUITOUB202511,2025.0
-,,,,,,,Réunion sur site avec le client prévue le 10/12.,,,
-,,,,,,,Lancement campagne de mesure pour les CEE,,,
-93.0,2026-05-01 10:27:55,2026-05-01 10:29:28,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Visite simple semestrielle (S2) de maintenance.,12.0,CondatsolA202512,2025.0
-,,,,,,,"Reprise fuite sur filtre à poche en bout de champ solaire. Fuite apparue lors du remplacement de la poche du filtre lors de la visite simple semestrielle du 15/12/2025. Nouvelle recherche de fuite sur le CS, fuite identifiée sur capteur R22-09. Arceau tracker HS. Rangée 22 isolée + 1 table découplée du tracker et mise à plat pour sécurité.",,,
-94.0,2026-05-01 10:30:24,2026-05-01 10:34:07,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Les factures de chaleur 2eme et 3eme trimestres 2025 n'ont pas été payées. La vente sur la période du 1er au 21 octobre 2025 (pré RJ) a été facturée de manière à être également gelée.,12.0,CondatsolB202512,2025.0
-95.0,2026-05-01 10:34:09,2026-05-01 10:50:24,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,2 appoints glycol pour un total de 500L suite à la baisse de pression du CS avec les températures froides,12.0,SOLTHERMALTA202512,2025.0
-96.0,2026-05-01 10:50:26,2026-05-01 10:53:13,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,"Echange avec nouveau asset manager Kyotherm pour faire valider le nettoyage champ solaire. Kyotherm demande des justifications supplémentaires coût/bénéfice pour valider le nettoyage. 2025 sera une année en dessous du seuil contractuel de performance. Nous demanderons à KT l'annulation des pénalités associées (environ 15 k€) pour cause de décalage du nettoyage préconisé par Newheat, le CS étant la cause principale du manque de performance.",12.0,SOLTHERMALTB202512,2025.0
-97.0,2026-05-01 10:53:15,2026-05-01 10:54:11,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Appoint glycol pour contrer températures froides,12.0,EMASOLA202512,2025.0
-98.0,2026-05-01 10:54:13,2026-05-01 10:55:20,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,Signature de l'avenant : mise en cohérence du NGAM avec les conditions réelles d'enlèvement du réseau. Les nouvelles conditions seront appliquées sur l'ensemble de l'année 2025.,12.0,EMASOLB202512,2025.0
-99.0,2026-05-01 10:55:21,2026-05-01 10:56:37,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,"Visite d'entretien avec nettoyage des filtres de toutes les rangées, mesure équilibrage, nettoyage station solaire, ouverture capteur Savo, mise en place pièges à souris et boite à clés. Inspection de tous les équipements sous matelas isolant. Observation piquage inquiétant sur le filtre à tamis SOL qui nécessite son remplacement rapidement.",12.0,NARBOSOLA202512,2025.0
-,,,,,,,,,,
-,,,,,,,Appoint glycol pour contrer les températures froides. ,,,
-100.0,2026-05-01 10:56:39,2026-05-01 10:56:48,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,12.0,NARBOSOLB202512,2025.0
-101.0,2026-05-01 10:56:49,2026-05-01 10:58:07,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"Pression de la boucle SUP regonflée d'environ 0,6 bars (~150 litres) soit un passage de 3,5 bars à 4,1 bars en aspiration de pompe et de 0,5 à 1,1 bars sur les batteries SUP. 2 IBCs transférés dans la cuve de rétention. Filtres d'entrées de rangées les plus hautes nettoyés.",12.0,LACTOSOLA202512,2025.0
-,,,,,,,,,,
-,,,,,,,Appoint glycol pour contrer les températures froides,,,
-102.0,2026-05-01 10:58:11,2026-05-01 11:04:02,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Présentation rapport ADEME perf 2 ans réalisée et envoyée à M. Schang pour attribution du solde de la subvention. Complément d'explication en cours de préparation. Envoi prévu début 2026. ,12.0,LACTOSOLB202512,2025.0
-103.0,2026-05-01 11:04:04,2026-05-01 11:06:34,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,"Crash automate. Pas d'alarmes reçues en amont. identification du problème via réception alarme pas de réplication de données. Heureusement, journée couverte donc pas de surchauffe. Intervention mainteneur astreinte pour reboot électrique automate. L'automate s'est bien relancé mais pas le programme. Relance de l'automate par NOREALP le lundi matin.",12.0,AUITOUA202512,2025.0
-,,,,,,,,,,
-,,,,,,,"Plusieurs sujets en cours de traitement par EPCc dans le cadre de la GPA (crash automate, problème RAM PC supervision, gestions des alarmes, etc)",,,
-104.0,2026-05-01 11:06:36,2026-05-01 11:09:28,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,Présentation faite au client sur le bilan performance des 4 premiers mois. Mise en avant du risque de non atteinte des perfs ADEME à cause de la température haute des retours process. Identification des options possibles pour modifier la gestion UVE / solaire afin de favoriser le solaire en été pour maximiser la perf solaire. Travaux de définition des nouvelles règles de contrôle commande à traiter entre EPCc et Exploitation. ,12.0,AUITOUB202512,2025.0
-105.0,2026-02-02 14:30:42,2026-02-02 14:31:51,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,RAS,1.0,CondatsolA20261,2026.0
-106.0,2026-02-02 14:31:53,2026-02-02 14:34:22,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,"Selon la presse, audience le 04/02/2026 pour sélectionner l'identité du futur repreneur : groupe tchèque Finesta, un papetier chinois ou groupe français SPB ",1.0,CondatsolB20261,2026.0
-108.0,2026-02-02 14:38:16,2026-02-02 14:44:14,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,Les batteries ont été bypassées par l'usine du 17/12/2025 au 31/01/2026 (sans notre information) impliquant une fourniture d'énergie très faible sur ce mois. ,1.0,SOLTHERMALTA20261,2026.0
-109.0,2026-02-02 14:44:16,2026-02-02 14:45:40,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Envoi du rapport annuel d'exploitation avec courrier de demande d’annulation des pénalités Newheat « incitation chaleur » sur l’année 2025 compte tenu des conditions d’exploitation cette année,1.0,SOLTHERMALTB20261,2026.0
-110.0,2026-02-02 14:45:43,2026-02-02 14:47:32,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Coupure de courant rapide n'ayant pas engendrée de surchauffe malgré l'ensoleillement (700 W/m²).,1.0,EMASOLA20261,2026.0
-,,,,,,,Entretien des espaces verts.,,,
-111.0,2026-02-02 14:47:33,2026-02-02 14:47:41,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,RAS,1.0,EMASOLB20261,2026.0
-112.0,2026-02-02 14:47:42,2026-02-02 14:49:17,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,"1 vase d'expansion solaire HS, remplacement en cours de programmation.",1.0,NARBOSOLA20261,2026.0
-,,,,,,,Remplacement du filtre à tamis sur la boucle solaire suite à indentification de piqûre de corrosion. Investigations en cours sur l'origine du défaut.,,,
-113.0,2026-02-02 14:49:19,2026-02-02 14:49:27,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,1.0,NARBOSOLB20261,2026.0
-114.0,2026-02-02 14:49:28,2026-02-02 14:51:08,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"Identification d'un capteur fuyard. Mise en place by-pass. Perte d'un volume significatif de glycol avec cette fuite (1,5 m²). ",1.0,LACTOSOLA20261,2026.0
-115.0,2026-02-02 14:51:09,2026-02-02 14:53:50,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Lancement travaux 4eme point intégration. Mise en service prévue en S7 2026.,1.0,LACTOSOLB20261,2026.0
-,,,,,,,,,,
-,,,,,,,"Échange avec ADEME via équipe Biz Dev pour modification des conditions d'obtention du solde 15% de la subvention. Utilisation du volume d'énergie produit par le CS et non pas fournit au client pour validation de la performance de l'installation du 12 mois glissants. Derniers échanges en cours via le BIZ DEV pour validation de l'obtention de la subvention. Pour le moment, les signaux sont au vert pour l'obtention de la subvention. ",,,
-116.0,2026-02-02 14:53:52,2026-02-02 14:57:19,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,RAS côté O&M.,1.0,AUITOUA20261,2026.0
-,,,,,,,,,,
-,,,,,,,"Côté EPCC (réception de l'installation), retour de Schneider qui indique ne pas comprendre pourquoi l'automate solaire a planté. Norealp va procéder au changement du PC Supervision, Automate et disjoncteur climatisation courant février.  ",,,
-117.0,2026-02-02 14:57:23,2026-02-02 14:58:07,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,En attente retour client sur accord pour modifier la gestion du pilotage de l'UVE afin de favoriser la production solaire thermique au printemps et en été. ,1.0,AUITOUB20261,2026.0
-118.0,2026-02-03 09:12:14,2026-02-03 09:16:54,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Vanne MV201 servo moteur HS. Vanne laissée en manu ouverture.,2.0,CondatsolA20262,2026.0
-,,,,,,,Bypass capteur R22-09 de la rangée 22. Capteurs R22-09 à R22-12 sont bloqués à l'horizontal,,,
-119.0,2026-02-03 09:17:01,2026-02-03 09:20:42,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Arrêt complet de la consommation de chaleur de l'usine. Echange avec M. Introvigne. Risque identifié d'arrêt de la fourniture d'électricité ==> travail en cours pour garantir l'alimentation électrique de la centrale solaire même avec arrêt usine. Gestion solaire en mode détracking + night cooling si besoin. ,2.0,CondatsolB20262,2026.0
-120.0,2026-02-03 09:20:44,2026-02-03 09:22:22,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,RAS,2.0,SOLTHERMALTA20262,2026.0
-121.0,2026-02-03 09:22:25,2026-02-03 09:23:44,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,"Remise en fonctionnement batteries solaires par la malterie fin février après plus de 2,5 mois de bypass.",2.0,SOLTHERMALTB20262,2026.0
-,,,,,,,Point tripartite KT - MFS - NH sur le fonctionnement de la centrale. NH simplement positionné en conseil précisant les contraintes techniques ou les implications d'adaptation du fonctionnement de la centrale (bypass batteries principalement),,,
-122.0,2026-02-03 09:23:46,2026-02-03 09:25:56,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Quelques coupures elec avec les tempêtes sans conséquence pour installation solaire. Reboot armoire EXOSUN nécessaire.,2.0,EMASOLA20262,2026.0
-,,,,,,,"PC supervision DALKIA HS et en attente de remplacement. En attendant, fourniture solaire bloquée (impact sur fourniture du mois de février).",,,
-,,,,,,,Travaux NH en cours de décorrélation du débit de fourniture NH et du débit RCU pour optim élec. Proposition avec ROI à venir.,,,
-,,,,,,,Installation du nouveau serveur d'historisation des données. Remplacement d'un compensateur hydraulique fuyard.,,,
-123.0,2026-02-03 09:26:01,2026-02-03 09:26:07,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,RAS,2.0,EMASOLB20262,2026.0
-124.0,2026-02-03 09:26:10,2026-02-03 09:26:20,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,Toujours 1 vase d'expansion HS. Sera remplacé début mars.,2.0,NARBOSOLA20262,2026.0
-125.0,2026-02-03 09:26:21,2026-02-03 09:26:28,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,2.0,NARBOSOLB20262,2026.0
-126.0,2026-02-03 09:26:29,2026-02-03 09:29:31,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,MES boucle CTA terminée.,2.0,LACTOSOLA20262,2026.0
-,,,,,,,Contrôle périodique compteurs d'énergie + VIE armoire électrique CTA,,,
-,,,,,,,Tour champ solaire. Pas de fuites constatées mais quelques capteurs à suivre,,,
-,,,,,,,Reprise soudure cuve avortée car impossible de fermer la vanne manuelle. Nouvelle tentative courant mars avec procédure d'intervention renforcée,,,
-127.0,2026-02-03 09:29:33,2026-02-03 09:31:12,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Prise en compte du 4ème point d'intégration pour la facturation d'énergie. ,2.0,LACTOSOLB20262,2026.0
-128.0,2026-02-03 09:31:16,2026-02-03 09:32:05,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,Changement PC IHM + automate prévu début mars entre Norealp + EPCC,2.0,AUITOUA20262,2026.0
-129.0,2026-02-03 09:32:06,2026-02-03 09:32:17,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,RAS,2.0,AUITOUB20262,2026.0
+13,2025-04-03 09:17:51,2025-04-03 09:18:05,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Exemple Janvier 2025,1.0,CondatsolA20251,2025
+14,2025-04-03 09:59:58,2025-04-03 10:00:40,etienne.letournel@newheat.fr,Etienne Letournel,SOLTHERMALT,O&M,,,SOLTHERMALTA2025,2025
+15,2025-05-05 10:26:27,2025-05-05 10:27:18,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Réalisation visite simple semestrielle de maintenance,4.0,CondatsolA20254,2025
+16,2025-05-05 10:27:22,2025-05-05 10:27:41,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,RAS,4.0,CondatsolB20254,2025
+17,2025-05-05 10:27:44,2025-05-05 10:29:58,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,Problème de pression sur la boucle fourniture. Problème en cours de résolution par DALKIA (changement membrane vase expansion). Remplacement sonde pression défectueuse. ,4.0,SOLTHERMALTA20254,2025
+18,2025-05-05 10:31:28,2025-05-05 10:33:42,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,"Echange entre BIZ DEV et KYOTHERM début avril. Demande d'explication sur les performances de la centrale de la part de KYOTHERM. 
+Analyse et présentation en cours de préparation par équipe exploitation",4.0,SOLTHERMALTB20254,2025
+19,2025-05-05 10:34:15,2025-05-05 10:36:03,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,"Nettoyage des capteurs. 
+Arrêt biomasse et passage en fonctionnement été le 07/04. 
+Arrêt du RCU pendant 2 jours pour travaux DALKIA. 
+NB : problème de remontée de données depuis fin du mois. Fourniture mois avril à consolider après récupération des données (+/- 10 MWh supplémentaire)",4.0,EMASOLA20254,2025
+20,2025-05-05 10:36:39,2025-05-05 10:38:04,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,"Préparation d'une analyse de fonctionnement de la nouvelle régulation de pilotage vanne 3 voies biomasse. Transmission à DALKIA prévue courant mai. 
+Avenant contrat en cours de rédaction (révision NGAM en cohérence avec l'enlèvement réel du RCU + modification du principe de calcul des pénalités)",4.0,EMASOLB20254,2025
+21,2025-05-05 10:38:08,2025-05-05 10:38:55,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,RAS,4.0,NARBOSOLA20254,2025
+22,2025-05-05 10:39:02,2025-05-05 10:39:09,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,4.0,NARBOSOLB20254,2025
+23,2025-05-05 10:39:11,2025-05-05 10:41:51,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"Travaux piquage boucle fourniture pour ajout intégration échangeur CTA. 
+1 capteur fuyant. BYPASS en place. Demande de prise en charge par MERIAURA envoyée. 
+Appoint glycol boucle solaire pour ajustement pression. ",4.0,LACTOSOLA20254,2025
+24,2025-05-05 10:41:54,2025-05-05 10:45:52,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,"Echange avec LSF pour le projet CTA. Incompréhension entre LSF et NH sur le partage financier des travaux à réaliser côté installation de LSF. Etudes en cours côté ACTEMIUM & LSF pour valider les travaux côté circuit CTA de LSF. 
+Planning prévisionnel mise en service échangeur CTA = début juillet (sous réserve de confirmation d'ACTEMIUM). 
+Côté production, très bon début avril au niveau des prévisions BP. Deuxième moitié avril moins productive à cause météo + arrêt fourniture pour travaux. ",4.0,LACTOSOLB20254,2025
+25,2025-06-04 09:17:17,2025-06-04 09:18:16,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,RAS,5.0,CondatsolA20255,2025
+26,2025-06-04 09:18:18,2025-06-04 09:18:35,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Rdv réalisé avec le service HSE pour l'optimisation des OPEX environnementaux. Sera opérationnel en 2026,5.0,CondatsolB20255,2025
+27,2025-06-04 09:18:37,2025-06-04 09:20:54,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,"Problème sur vessie vase expansion supply. Intervention programmée par DALKIA. 
+Travaux de raccordement filaire pour synthèe de marche des ventilateurs et de la consigne de température d'air des batteries solaires sur le coffret déporté de la Tour afin de palier aux problèmes de COM entre API solaire et usine. ",5.0,SOLTHERMALTA20255,2025
+28,2025-06-04 09:20:55,2025-06-04 09:25:37,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,"Transmission rapport performance 2021 - 2025 à Kyotherm. Données 2025 confirment que l'installation reste performante et que la baisse de fourniture en 2024 s'explique avant tout par une météo moins favorable. 
+Kyotherm indique ses inquiétudes sur la rentabilité du projet (baisse productible et augmentation cout OPEX avec les batteries). Kyotherm demande d'optimiser les couts d'exploitation et de surveiller l'enlèvement client. ",5.0,SOLTHERMALTB20255,2025
+29,2025-06-04 09:25:38,2025-06-04 09:26:06,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,RAS,5.0,EMASOLA20255,2025
+30,2025-06-04 09:26:07,2025-06-04 09:26:25,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,Projet d'avenant pour modification du NGAM et gestion des pénalités sera transmis à Dalkia S23,5.0,EMASOLB20255,2025
+31,2025-06-04 09:26:26,2025-06-04 09:27:50,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,Défaut ponctuel sur sonde de température extérieure. Problème résolu. ,5.0,NARBOSOLA20255,2025
+32,2025-06-04 09:27:51,2025-06-04 09:36:24,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,"Transmission du rapport perf à DALKIA pour mettre en évidence une température réseau globalement plus chaude que celle prévue en phase conception. Réunion prévue avec DALKIA le 6 juin pour évoquer le sujet.
+La première réponse de DALKIA à chaud est qu'ils ne peuvent pas faire grand chose sur la température réseau et que les performances de la centrale sont malgré tout au niveau attendu du dossier ADEME (1910 MWh/an). 
+A noter une différence de référence de cible à atteindre entre dossier ADEME (référence pour DALKIA) et BP Newheat (2300 MWh/an). Travail en cours au niveau de l'exploit pour redéfinir les références.",5.0,NARBOSOLB20255,2025
+33,2025-06-04 09:36:28,2025-06-04 09:37:39,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,Complément pression boucle solaire environ 200L,5.0,LACTOSOLA20255,2025
+34,2025-06-04 09:37:41,2025-06-04 09:42:24,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,"Projet 4ème point intégration en cours. Accord de principe de LSF (confirmation de JOP) sur le montage du projet (budget et financement). En attente validation de KAMAL et service juridique sur sujet TVA et financement reste à charge LSF. 
+Le planning travaux n'est pas arrêté et sera définit une fois la signature de l'avenant. Prévision actuelle pour travaux en aout/septembre et MES en septembre.  ",5.0,LACTOSOLB20255,2025
+35,2025-07-01 15:41:33,2025-07-01 15:51:33,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,O&M,"Réalisation de la maintenance annuelle. Equilibrage hydraulique du champ solaire.
+Petites fuites identifiées et réparées sur vanne entrée rangée et filtre à poche CS.
+Pompe glycol désamorcée, inter PE pour dépannage. 
+Retour des alarmes perte de comm (CS et trackers).",6.0,CondatsolA20256,2025
+36,2025-07-01 15:51:39,2025-07-01 15:52:19,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,AM,RAS,6.0,CondatsolB20256,2025
+37,2025-07-01 15:52:20,2025-07-01 15:53:06,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,AM,"Départ de Fouad, notre contact QM chez Kyotherm.",6.0,SOLTHERMALTB20256,2025
+38,2025-07-01 15:53:08,2025-07-01 15:53:41,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,AM,RDV avec Dalkia au sujet des problèmes de fonctionnement RCU et de la prolongement de l'avenant réévalution prix de chaleur (devrait être signé cet été).,6.0,EMASOLB20256,2025
+39,2025-07-01 15:53:42,2025-07-01 15:54:07,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,AM,"RDV avec Dalkia pour bilan des 1ères années et évoquer les améliorations possible du fonctionnement côté RCU. Bilan : pas beaucoup de marge de manœuvre, Dalkia indique que la CDC utilisée en phase projet n'était pas représentative d'un fonctionnement normal.",6.0,NARBOSOLB20256,2025
+40,2025-07-01 15:54:21,2025-07-01 15:54:42,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,AM,Sujet 4ème point qui traine en raison de points admin et d'un manque de réactivité côté LCT.,6.0,LACTOSOLB20256,2025
+41,2025-07-01 15:54:44,2025-07-01 15:55:43,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,O&M,"Perte totale des accès distants (PC automate et PC supervision). Seul le firewall répond.
+Demande d'intervention à Dalkia : automate et supervision fonctionnels sur site avec pompes en marche donc alim 24V fonctionnelle et pas de surchauffe -> Reboot de la box internet, du firewall et du switch -> Accès distants rétablis.",6.0,EMASOLA20256,2025
+42,2025-07-01 15:55:45,2025-07-01 15:56:27,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,O&M,"Réalisation de la visite complète annuelle de maintenance.
+Equilibrage hydraulique du champ solaire.
+Coupure électrique générale. Retour à la normale sans intervention après quelques minutes.",6.0,NARBOSOLA20256,2025
+43,2025-07-01 17:08:25,2025-07-01 17:08:47,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,O&M,"Réalisation de la visite de maintenance annuelle.
+dilato aérotherme en mauvaise état, à remplacer.
+Identification d'une fuite sur le tuyau de raccordement en haut de cuve au niveau de la vanne de sectionnement en extérieur. Demande chiffrage travaux ACTEMIUM & HERVE THERMIQUE en cours.",6.0,LACTOSOLA20256,2025
+44,2025-07-01 17:10:34,2025-07-01 17:17:53,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,O&M,"Deux sondes sont en défaut (débitmètre et sonde de pression), probablement à cause de faux contacts, avec une intervention de Dalkia. 
+Supervision figée (en après-midi) --> reboot PC Automate (en soirée) car plantage à cause de problèmes de calculs (problème de division) --> Pression circuit solaire très basse (le lendemain) --> Purge de l'installation + remplissage avec appoint glycol --> Détection d'un capteur fuyard et rangée isolée.
+Plusieurs arrêts de process ont été causés par des épisodes de fortes chaleurs entraînant une dilatation anormale du gaz et des défauts sur la chaufferie.",6.0,SOLTHERMALTA20256,2025
+45,2025-09-01 09:04:14,2025-09-01 09:04:37,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,- nettoyage filtres capteurs. Constat encrassement anormal des 3 dernières rangées. Prise d'échantillon pour analyse + demande de nettoyage régulier des filtres à PE.,8.0,CondatsolA20258,2025
+46,2025-09-01 09:04:42,2025-09-01 09:04:48,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,"- Arrêt usine début Août pour 1 semaine environ
+- Incertitude sur arrêt définitif usine fin 2025 (article presse Ici Perrigord)",8.0,CondatsolB20258,2025
+47,2025-09-01 09:05:06,2025-09-01 09:05:25,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,"- 1 nouveau capteur fuyard. Perte environ 1 m3 glycol. Total de 2 rangées bypassées (11 & 47)
+- Remise en service des 2 rangées bypassées après installation des bypass capteurs (Total de 3 capteurs bypassés sur l'ensembe du CS)
+- Demande d'intervention faite à SAVOSOLAR pour expertise sur capteurs fuyards
+- Coupure générale électricité suite à orage. Cordon chauffant source du problème. Court circuit sur vanne VMR PRI 2 HS. Prise en manu des vannes solaires pour garantir une circulation vers l'échangeur",8.0,SOLTHERMALTA20258,2025
+48,2025-09-01 09:05:28,2025-09-01 09:05:36,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,- RAS,8.0,SOLTHERMALTB20258,2025
+49,2025-09-01 09:07:50,2025-09-01 09:08:49,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,"- Arrêt manuel d'une pompe SUPPLY pour limiter conso électrique
+- Manque données index compteur énergie fin du mois suite à problème d'enregistrement des données",8.0,EMASOLA20258,2025
+50,2025-09-01 09:08:51,2025-09-01 09:14:02,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,"- Echange avec DALKIA suite au non paiement de la dernière facture de chaleur. DALKIA demande de na pas appliquer les pénalités car ils estiment avoir déjà fait des ajustements sur la conduite du réseau. Facture payée finalement fin Août suite échange pour expliquer la nautre des pénalités (température RCU trop haute à cause du surdébit RCU)
+- Diminution du débit RCU (50 m3/h contre 80 m3/h en juin 2025) ==> limitation conso électrique
+- Baisse consigne température départ RCU ==> devrait améliorer la fourniture
+- Avenant en cours de signature
+",8.0,EMASOLB20258,2025
+51,2025-09-01 09:15:47,2025-09-01 09:17:09,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,- gestion de la période de canicule avec ouverture manuelle des portes du SKID solaire. REX ==> besoin d'une meilleure ventilation des SKID en cas de forte chaleur (risque de défaut des composants élec),8.0,NARBOSOLA20258,2025
+52,2025-09-01 09:17:10,2025-09-01 09:17:17,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,- RAS,8.0,NARBOSOLB20258,2025
+53,2025-09-01 09:17:19,2025-09-01 09:19:13,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"- gestion de la période de canicule avec ouverture manuelle des portes du SKID solaire. REX ==> besoin d'une meilleure ventilation des SKID en cas de forte chaleur (risque de défaut des composants élec)
+- Pression CS haute en pleine journée avec ouverture des soupapes ==> nettoyage des filtres CS à prévoir
+- Dégradation constatée sur 2 nouveaux dilato ==> remplacement prévus (Total de 11 dilatos remplacés depuis juin 2025)",8.0,LACTOSOLA20258,2025
+54,2025-09-01 09:19:16,2025-09-01 09:20:53,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,"- Arrêt technique 1 semaine début Août + faible niveau de conso (pas de matière première chez LSF)
+- Contrat 4eme point intégration signé. Passage de commande OK. Lancement travaux préparatoire. ",8.0,LACTOSOLB20258,2025
+55,2025-09-01 09:42:28,2025-09-01 09:49:27,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,"- Mise en service de l'installation
+- Formation équipe exploitation pour prise en main de l'installation
+- Recherche mainteneur local pour établissement contrat de maintenance",8.0,AUITOUA20258,2025
+56,2025-09-01 09:49:29,2025-09-01 09:50:25,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,"- Finalisation mise en service en cours par équipe EPCC avec quelques ajustements de l'interface API solaire - API client (gestion surchauffe, table d'échange, etc)",8.0,AUITOUB20258,2025
+57,2025-10-01 11:03:35,2025-10-01 11:08:30,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,Rapport d'analyse des dépôts reçu. Constitués à 90% d'oxydes d'aluminium. Point organisé avec BM pour position Newheat avant retour vers SAVO. ,9.0,CondatsolA20259,2025
+58,2025-10-01 11:08:35,2025-10-01 11:10:17,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Discussion avec Périgord Energie sur la situation de l'usine. A priori la recherche d'un repreneur du site est en cours. Divers articles de presse faisant état de la mauvaise santé financière de l'usine et du risque de fermeture d'ici fin d'année.,9.0,CondatsolB20259,2025
+59,2025-10-01 11:10:20,2025-10-01 11:12:11,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,"Remplacement du servomoteur de la vanne VMR PRI 2 suite à défaut électrique fin août. Appoint glycol pour remonter la pression avec l'arrivée des premières nuits froides. 
+Investigation en cours sur performance champ solaire suite au constat de dérive de la fourniture mesurée par rapport à la cible recalée (plus de 10% d'écart). ",9.0,SOLTHERMALTA20259,2025
+60,2025-10-01 11:12:15,2025-10-01 11:13:04,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Sollicité par KYOTHREM concernant la rédaction d'une réclamation commune vis à vis de SAVO concernant la quantité limitée de capteurs disponibles après arrêt usine (80 au total),9.0,SOLTHERMALTB20259,2025
+61,2025-10-01 11:13:07,2025-10-01 11:15:20,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Coupure courant ENEDIS le 11/09. Défaut sur vanne STO VMTOR 02. Remplacement du corps de vanne.,9.0,EMASOLA20259,2025
+62,2025-10-01 11:15:22,2025-10-01 11:15:29,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,Avenant complémentaire au dernier avenant prix de chaleur en cours de validation avec DALKIA,9.0,EMASOLB20259,2025
+63,2025-10-01 11:15:30,2025-10-01 11:17:25,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,Blocage vanne STO VMTOR 01 entrainant risque de surchauffe. Déblocage manuel de la vanne par Hervé thermique. Nouveau blocage de la vanne le 22/09. Remplacement corps de vanne en cours,9.0,NARBOSOLA20259,2025
+64,2025-10-01 11:17:26,2025-10-01 11:17:39,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,9.0,NARBOSOLB20259,2025
+65,2025-10-01 11:17:40,2025-10-01 11:29:03,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"Mois très compliqué sur LCT. 
+09/09 : fuite capteur constaté. Mise en place bypass capteur
+15/09 : changement dilatos dans station solaire + bypass d'une rangée suite à nouvelle fuite capteur
+23/09 : intervention équipe EXP sur site pour recherche d'une fuite. Identification d'un problème sur la vanne V3V de la rangée bypassée le 15/09 + resserrage d'une autre V3V qui fuyait
+29/09 : SURCHAUFFE STOP de l'installation suite à vidange importante du champ solaire depuis le samedi par la vanne V3V de la rangée bypassée. La vanne filtre 2 voies d'entrée de rangée s'est ouverte. Les alarmes n'ont pas été transmises à temps le weekend suite à un problème de saturation de l'automate probablement. 
+
+Installation actuellement en SURCHAUFFE STOP. En attente livraison glycol pour remise en service.
+",9.0,LACTOSOLA20259,2025
+66,2025-10-01 11:29:06,2025-10-01 11:30:24,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Projet 4eme point d'intégration au ralenti. Le prestataire ACTEMIUM est en attente de la commande officielle LSF pour lancer les travaux préparatoires. ,9.0,LACTOSOLB20259,2025
+67,2025-10-01 11:31:33,2025-10-01 11:33:20,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,"Prise en main de l'installation par équipe exploitation. 
+29/09 : coupure de courant ENEDIS. Intervention CL sur site pour relance des pompes solaires qui n'ont pas redémarré avec le retour de l'alimentation électrique (problème variateur). Travaux en cours avec EPCC pour correction de ces problèmes 
+Offre O&M de Hervé Thermique en cours de négociation car trop chère par rapport à cible",9.0,AUITOUA20259,2025
+68,2025-10-01 11:33:22,2025-10-01 11:33:29,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,RAS,9.0,AUITOUB20259,2025
+69,2025-11-03 17:14:28,2025-11-03 17:18:10,thomas.verdier@newheat.fr,Thomas Verdier,AUITOU,AM,"Analyse en cours de réalisation sur perspective de performance de la centrale par rapport au constat du fonctionnement réel de l'installation sur les 2 premiers mois. Réunion interne NH prévue début novembre pour cadrer les échanges avec le client concernant les risques  de non atteinte des engagements de perf ADEME à cause des ""retours chauds"" vers le champ solaire en été.  ",10.0,AUITOUB202510,2025
+70,2025-11-03 17:18:13,2025-11-03 17:24:03,thomas.verdier@newheat.fr,Thomas Verdier,AUITOU,O&M,"En début de mois, Surchauffe STOP suite coupures de courant ENEDIS à répétition + accès distant à la supervision coupé. Les pompes n'ont pas redémarré car défauts discordances non acquittés.
+
+Dans un premier temps, remise en service partielle du champ solaire (5 rangées doubles restent isolées) en attente de livraison de glycol (délais 10 jours) puis dans un second temps, transfert de 4 IBC dans la cuve de rétention et remise en service des 10 rangées restées isolées suite à la première intervention. 
+
+Formation auprès du Client sur le pilotage de l'installation solaire. 
+
+Remise en fonctionnement de son GE afin d'assurer une redondance de l'alimentation électrique.
+
+Crashs récurrents du PC IHM, Norealp sur le sujet avec analyse du PC auprès de Schneider pour comprendre la cause des crashs. Après analyse avec Pathtech également, il semblerait que les problématiques soient générées par l'environnement d'exécution de la stack Docker. Correctifs mis en place. Gain de fiabilité à suivre.",10.0,AUITOUA202510,2025
+71,2025-11-03 17:24:06,2025-11-03 17:26:21,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,AM,"Courrier reçu par Condat détaillant la situation du site. Procédure de redressement judiciaire actée le 22 octobre 2025 par le Tribunal de Commerce de Bordeaux. Les factures seront payées au comptant, à leur réception (risque de délais rallongé pour paiement). La Finance se renseigne sur les pièces à produire pour la régularisation des créances avant cette date.",10.0,CondatsolB202510,2025
+72,2025-11-03 17:26:23,2025-11-03 17:27:10,thomas.verdier@newheat.fr,Thomas Verdier,Condatsol,O&M,RAS,10.0,CondatsolA202510,2025
+73,2025-11-03 17:27:11,2025-11-03 17:36:42,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,AM,Echanges démarrés avec KT sur un potentiel recours commun envers Savosolar sur deux sujets différents : stock limité de capteurs & défaut de conception observé,10.0,SOLTHERMALTB202510,2025
+74,2025-11-03 17:36:44,2025-11-03 17:42:13,thomas.verdier@newheat.fr,Thomas Verdier,SOLTHERMALT,O&M,"Travaux entre Kyotherm et Meriaura sans implication NH.
+Remplacement et expertise des 3 capteurs fuyards (2 sur Habitation et 1 sur Imprimerie)
+Attention : Capteurs fuyards laissés au sol sur les champs solaires et déchets de chantier non nettoyés -> Information transmise à Kyotherm.
+Trois rangées isolées mais non remises en service après remplacement --> Dalkia occupé avec la remise en service du chauffage et la malterie.
+Entretien des Espaces Verts - 2ème passage sur l'année.
+Un perte de communication avec MFS et reboot armoire électrique déportée pour retrouver la communication.",10.0,SOLTHERMALTA202510,2025
+75,2025-11-03 17:42:14,2025-11-03 17:43:14,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,O&M,Quelques appoints de glycol pour regonfler le circuit avec la chute des températures extérieures.,10.0,EMASOLA202510,2025
+76,2025-11-03 17:43:15,2025-11-03 17:43:21,thomas.verdier@newheat.fr,Thomas Verdier,EMASOL,AM,"Toujours en attente de Dalkia concernant la finalisation de l'avenant complétant celui de révision du prix de chaleur (modification NGAM + application des pénalités).
+
+Point réalisé avec Dalkia pour présenter pourquoi ils se font pénaliser (mauvaise conduite côté RCU). Des alarmes sont mises en place (débit RCU + T retour) pour les alerter dès qu'ils entrent dans les zones pénalisables.",10.0,EMASOLB202510,2025
+77,2025-11-03 17:43:22,2025-11-03 17:43:49,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,AM,"450 matelas isolants ont été posés par DK cet été sur les échangeurs, pompes, vannes, clapets... et même dans notre station solaire. Les besoins du RCU vont donc diminuer légèrement. DK va ajuster les régimes de température et débit du RCU. DK est ouvert à une réflexion commune sur ce point pour optimiser l'enlèvement solaire.",10.0,NARBOSOLB202510,2025
+78,2025-11-03 17:43:51,2025-11-03 17:49:43,thomas.verdier@newheat.fr,Thomas Verdier,NARBOSOL,O&M,"La vanne STO VMTOR 01 a un point dur lors de sa fermeture ce qui génère une alarme (pas de fin de course) qui bloque la transition entre les modes.
+Découplage du servomoteur du corps de vanne et vanne laissée physiquement ouverte. Ainsi l'alarme n'est plus active.
+Le servomoteur faisait ces ouvertures et fermetures jusqu'à qu'il soit lui aussi HS. Réapparition de l'alarme.
+
+Commande passée pour remplacement de l'ensemble --> attente de livraison.
+
+Le programme automate a été modifié temporairement pour ne pas bloquer les transitions entre modes. Forçage signal fin de course ouverture et fermeture à 1 et forçage défaut à 0. ",10.0,NARBOSOLA202510,2025
+79,2025-11-03 17:49:47,2025-11-03 17:50:14,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,AM,Réunion calage travaux 4eme point intégration prévue en S47 avec ACTEMIUM et LSF. Le chargé travaux LSF dit avoir plus de temps pour s'occuper du projet. Objectif : travaux début 2026. ,10.0,LACTOSOLB202510,2025
+80,2025-11-03 17:50:15,2025-11-03 17:50:41,thomas.verdier@newheat.fr,Thomas Verdier,LACTOSOL,O&M,"Remise en service de l'installation suite à surchauffe. Opération réalisée en 2 temps car manque de glycol pour remplissage du CS en 1 seule fois. En parallèle, remplacement de 4 capteurs par Savo + livraison des capteurs spare. Suite à l'opération, l'ensemble du CS est opérationnel.
+
+Constat que les panoplies en entrée rangée capteur ont souffert. Manque de filasse sur certaines avec très légers suintement. Campagne de reprise à prévoir cet hiver.
+
+Réception de 15 m3 de glycol.",10.0,LACTOSOLA202510,2025
+81,2025-12-01 15:36:03,2025-12-01 15:37:00,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,"Vérification du maintien en état de conformité des installations électriques ERT
+Réamorçage de la pompe d'appoint de glycol et appoint pour réhausser la pression en amont des pompes primaire de 1,9 à 2,5 bars. (environ 500L)",11.0,CondatsolA202511,2025
+82,2025-12-01 15:37:02,2025-12-01 15:38:16,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,"Information de Mathieu Introvigne (groupe LECTA) : ""A ce jour, nous prévoyons de fonctionner en décembre et janvier sans arrêt prévu de la chaudière.
+La situation fait que l’organisation et les décisions peuvent évoluées malgré tout.""
+
+Factures gelées pré-RJ le 22/10, soit T2, T3 et une partie de T4",11.0,CondatsolB202511,2025
+83,2025-12-01 15:38:20,2025-12-01 15:39:14,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,"Suppression des bypass et mise en service des nouveaux capteurs sur rangées 11, 47 et 64.
+Appoint glycol avec arrivée des jours froids",11.0,SOLTHERMALTA202511,2025
+84,2025-12-01 15:39:18,2025-12-01 15:43:06,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Rapport de performance envoyé à Kyotherm. Mise en avant d'un besoin de nettoyage début 2026. ,11.0,SOLTHERMALTB202511,2025
+85,2025-12-01 15:43:07,2025-12-01 15:45:31,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,"Appoint glycol avec arrivée des températures froides. 
+Quelques perturbations côté RCU suite à problème sur leur automate Johnson Control après un problème électrique. 
+Réalisation de la visite simple de maintenance avec formation du nouveau technicien Dalkia.",11.0,EMASOLA202511,2025
+86,2025-12-01 15:45:39,2025-12-01 15:45:45,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,RAS,11.0,EMASOLB202511,2025
+87,2025-12-01 15:45:56,2025-12-01 15:48:20,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,"Appoint glycol avec arrivée des jours froids
+Remplacement vanne STO VMTOR01
+Visite de site : présence souris dans le SKID, avec calorifuge grignoté. Installation piège à souris
+Contrôle et ajustement de l'équilibrage du champ solaire.",11.0,NARBOSOLA202511,2025
+88,2025-12-01 15:48:24,2025-12-01 15:48:30,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,11.0,NARBOSOLB202511,2025
+89,2025-12-01 15:48:43,2025-12-01 15:51:06,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"Appoint glycol suite à arrivée des jours froids
+Appoint eau adoucie réalisé sur boucle supply. Pas de fuite identifiée pour le moment. Pression à contrôler
+Nettoyage des filtres entrée de rangées. Taux d'encrassement encore assez élevé suite à surchauffe stop d'octobre 2025",11.0,LACTOSOLA202511,2025
+90,2025-12-01 15:51:08,2025-12-01 15:51:53,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,"Projet raccordement 4eme point intégration définitivement lancé. 
+Mise en service prévue en S7 2026",11.0,LACTOSOLB202511,2025
+91,2025-12-01 15:52:01,2025-12-01 15:54:47,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,"SURCHAUFFE STOP évitée le 05/11 suite à problème électrique sur le TGBT du bâtiment chaufferie. Pilotage en manu de l'installation par équipe exploitation qui a permis de relancer l'installation malgré le déclenchement de la SURCHAUFFE STOP sur quelques minutes. 
+Visite de site par EL et CL pour vérifier équilibrage champ solaire suite à identification de 2 rangées fermées non réouvertes après la SURCHAUFFE STOP de septembre 2025. Réalisation petits travaux annexes dans la lignée de la réception du site. 
+",11.0,AUITOUA202511,2025
+92,2025-12-01 15:54:48,2025-12-01 15:57:20,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,"Coordination EXP, EPCc et BIS DEV sur stratégie de communication au client d'un risque de non atteinte des objectifs ADEME car température retour vers champ solaire beaucoup plus chaud que prévue. EXP réalise des études de sensibilité à présenter au client pour illustrer la baisse de perf en fonction de ses températures de retour et pour l'inciter à travailler sur son process. 
+Réunion sur site avec le client prévue le 10/12. 
+Lancement campagne de mesure pour les CEE",11.0,AUITOUB202511,2025
+93,2026-01-05 10:27:55,2026-01-05 10:29:28,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,"Visite simple semestrielle (S2) de maintenance.
+Reprise fuite sur filtre à poche en bout de champ solaire. Fuite apparue lors du remplacement de la poche du filtre lors de la visite simple semestrielle du 15/12/2025. Nouvelle recherche de fuite sur le CS, fuite identifiée sur capteur R22-09. Arceau tracker HS. Rangée 22 isolée + 1 table découplée du tracker et mise à plat pour sécurité.",12.0,CondatsolA202512,2025
+94,2026-01-05 10:30:24,2026-01-05 10:34:07,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Les factures de chaleur 2eme et 3eme trimestres 2025 n'ont pas été payées. La vente sur la période du 1er au 21 octobre 2025 (pré RJ) a été facturée de manière à être également gelée.,12.0,CondatsolB202512,2025
+95,2026-01-05 10:34:09,2026-01-05 10:50:24,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,2 appoints glycol pour un total de 500L suite à la baisse de pression du CS avec les températures froides,12.0,SOLTHERMALTA202512,2025
+96,2026-01-05 10:50:26,2026-01-05 10:53:13,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,"Echange avec nouveau asset manager Kyotherm pour faire valider le nettoyage champ solaire. Kyotherm demande des justifications supplémentaires coût/bénéfice pour valider le nettoyage. 2025 sera une année en dessous du seuil contractuel de performance. Nous demanderons à KT l'annulation des pénalités associées (environ 15 k€) pour cause de décalage du nettoyage préconisé par Newheat, le CS étant la cause principale du manque de performance.",12.0,SOLTHERMALTB202512,2025
+97,2026-01-05 10:53:15,2026-01-05 10:54:11,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,Appoint glycol pour contrer températures froides,12.0,EMASOLA202512,2025
+98,2026-01-05 10:54:13,2026-01-05 10:55:20,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,Signature de l'avenant : mise en cohérence du NGAM avec les conditions réelles d'enlèvement du réseau. Les nouvelles conditions seront appliquées sur l'ensemble de l'année 2025.,12.0,EMASOLB202512,2025
+99,2026-01-05 10:55:21,2026-01-05 10:56:37,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,"Visite d'entretien avec nettoyage des filtres de toutes les rangées, mesure équilibrage, nettoyage station solaire, ouverture capteur Savo, mise en place pièges à souris et boite à clés. Inspection de tous les équipements sous matelas isolant. Observation piquage inquiétant sur le filtre à tamis SOL qui nécessite son remplacement rapidement.
+
+Appoint glycol pour contrer les températures froides. ",12.0,NARBOSOLA202512,2025
+100,2026-01-05 10:56:39,2026-01-05 10:56:48,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,12.0,NARBOSOLB202512,2025
+101,2026-01-05 10:56:49,2026-01-05 10:58:07,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"Pression de la boucle SUP regonflée d'environ 0,6 bars (~150 litres) soit un passage de 3,5 bars à 4,1 bars en aspiration de pompe et de 0,5 à 1,1 bars sur les batteries SUP. 2 IBCs transférés dans la cuve de rétention. Filtres d'entrées de rangées les plus hautes nettoyés.
+
+Appoint glycol pour contrer les températures froides",12.0,LACTOSOLA202512,2025
+102,2026-01-05 10:58:11,2026-01-05 11:04:02,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Présentation rapport ADEME perf 2 ans réalisée et envoyée à M. Schang pour attribution du solde de la subvention. Complément d'explication en cours de préparation. Envoi prévu début 2026. ,12.0,LACTOSOLB202512,2025
+103,2026-01-05 11:04:04,2026-01-05 11:06:34,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,"Crash automate. Pas d'alarmes reçues en amont. identification du problème via réception alarme pas de réplication de données. Heureusement, journée couverte donc pas de surchauffe. Intervention mainteneur astreinte pour reboot électrique automate. L'automate s'est bien relancé mais pas le programme. Relance de l'automate par NOREALP le lundi matin. 
+
+Plusieurs sujets en cours de traitement par EPCc dans le cadre de la GPA (crash automate, problème RAM PC supervision, gestions des alarmes, etc)",12.0,AUITOUA202512,2025
+104,2026-01-05 11:06:36,2026-01-05 11:09:28,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,Présentation faite au client sur le bilan performance des 4 premiers mois. Mise en avant du risque de non atteinte des perfs ADEME à cause de la température haute des retours process. Identification des options possibles pour modifier la gestion UVE / solaire afin de favoriser le solaire en été pour maximiser la perf solaire. Travaux de définition des nouvelles règles de contrôle commande à traiter entre EPCc et Exploitation. ,12.0,AUITOUB202512,2025
+105,2026-02-02 14:30:42,2026-02-02 14:31:51,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,RAS,1.0,CondatsolA20261,2026
+106,2026-02-02 14:31:53,2026-02-02 14:34:22,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,"Selon la presse, audience le 04/02/2026 pour sélectionner l'identité du futur repreneur : groupe tchèque Finesta, un papetier chinois ou groupe français SPB ",1.0,CondatsolB20261,2026
+108,2026-02-02 14:38:16,2026-02-02 14:44:14,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,Les batteries ont été bypassées par l'usine du 17/12/2025 au 31/01/2026 (sans notre information) impliquant une fourniture d'énergie très faible sur ce mois. ,1.0,SOLTHERMALTA20261,2026
+109,2026-02-02 14:44:16,2026-02-02 14:45:40,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,Envoi du rapport annuel d'exploitation avec courrier de demande d’annulation des pénalités Newheat « incitation chaleur » sur l’année 2025 compte tenu des conditions d’exploitation cette année,1.0,SOLTHERMALTB20261,2026
+110,2026-02-02 14:45:43,2026-02-02 14:47:32,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,"Coupure de courant rapide n'ayant pas engendrée de surchauffe malgré l'ensoleillement (700 W/m²). 
+Entretien des espaces verts.",1.0,EMASOLA20261,2026
+111,2026-02-02 14:47:33,2026-02-02 14:47:41,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,RAS,1.0,EMASOLB20261,2026
+112,2026-02-02 14:47:42,2026-02-02 14:49:17,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,"1 vase d'expansion solaire HS, remplacement en cours de programmation. 
+Remplacement du filtre à tamis sur la boucle solaire suite à indentification de piqûre de corrosion. Investigations en cours sur l'origine du défaut.",1.0,NARBOSOLA20261,2026
+113,2026-02-02 14:49:19,2026-02-02 14:49:27,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,1.0,NARBOSOLB20261,2026
+114,2026-02-02 14:49:28,2026-02-02 14:51:08,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"Identification d'un capteur fuyard. Mise en place by-pass. Perte d'un volume significatif de glycol avec cette fuite (1,5 m²). ",1.0,LACTOSOLA20261,2026
+115,2026-02-02 14:51:09,2026-02-02 14:53:50,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,"Lancement travaux 4eme point intégration. Mise en service prévue en S7 2026. 
+
+Échange avec ADEME via équipe Biz Dev pour modification des conditions d'obtention du solde 15% de la subvention. Utilisation du volume d'énergie produit par le CS et non pas fournit au client pour validation de la performance de l'installation du 12 mois glissants. Derniers échanges en cours via le BIZ DEV pour validation de l'obtention de la subvention. Pour le moment, les signaux sont au vert pour l'obtention de la subvention. ",1.0,LACTOSOLB20261,2026
+116,2026-02-02 14:53:52,2026-02-02 14:57:19,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,"RAS côté O&M. 
+
+Côté EPCC (réception de l'installation), retour de Schneider qui indique ne pas comprendre pourquoi l'automate solaire a planté. Norealp va procéder au changement du PC Supervision, Automate et disjoncteur climatisation courant février.  ",1.0,AUITOUA20261,2026
+117,2026-02-02 14:57:23,2026-02-02 14:58:07,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,En attente retour client sur accord pour modifier la gestion du pilotage de l'UVE afin de favoriser la production solaire thermique au printemps et en été. ,1.0,AUITOUB20261,2026
+118,2026-03-02 09:12:14,2026-03-02 09:16:54,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,O&M,"Vanne MV201 servo moteur HS. Vanne laissée en manu ouverture. 
+Bypass capteur R22-09 de la rangée 22. Capteurs R22-09 à R22-12 sont bloqués à l'horizontal
+",2.0,CondatsolA20262,2026
+119,2026-03-02 09:17:01,2026-03-02 09:20:42,guillaume.pradere@newheat.fr,Guillaume Pradere,Condatsol,AM,Arrêt complet de la consommation de chaleur de l'usine. Echange avec M. Introvigne. Risque identifié d'arrêt de la fourniture d'électricité ==> travail en cours pour garantir l'alimentation électrique de la centrale solaire même avec arrêt usine. Gestion solaire en mode détracking + night cooling si besoin. ,2.0,CondatsolB20262,2026
+120,2026-03-02 09:20:44,2026-03-02 09:22:22,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,O&M,RAS,2.0,SOLTHERMALTA20262,2026
+121,2026-03-02 09:22:25,2026-03-02 09:23:44,guillaume.pradere@newheat.fr,Guillaume Pradere,SOLTHERMALT,AM,"Remise en fonctionnement batteries solaires par la malterie fin février après plus de 2,5 mois de bypass. 
+Point tripartite KT - MFS - NH sur le fonctionnement de la centrale. NH simplement positionné en conseil précisant les contraintes techniques ou les implications d'adaptation du fonctionnement de la centrale (bypass batteries principalement)",2.0,SOLTHERMALTB20262,2026
+122,2026-03-02 09:23:46,2026-03-02 09:25:56,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,O&M,"Quelques coupures elec avec les tempêtes sans conséquence pour installation solaire. Reboot armoire EXOSUN nécessaire. 
+PC supervision DALKIA HS et en attente de remplacement. En attendant, fourniture solaire bloquée (impact sur fourniture du mois de février).
+Travaux NH en cours de décorrélation du débit de fourniture NH et du débit RCU pour optim élec. Proposition avec ROI à venir.
+Installation du nouveau serveur d'historisation des données. Remplacement d'un compensateur hydraulique fuyard.",2.0,EMASOLA20262,2026
+123,2026-03-02 09:26:01,2026-03-02 09:26:07,guillaume.pradere@newheat.fr,Guillaume Pradere,EMASOL,AM,RAS,2.0,EMASOLB20262,2026
+124,2026-03-02 09:26:10,2026-03-02 09:26:20,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,O&M,Toujours 1 vase d'expansion HS. Sera remplacé début mars.,2.0,NARBOSOLA20262,2026
+125,2026-03-02 09:26:21,2026-03-02 09:26:28,guillaume.pradere@newheat.fr,Guillaume Pradere,NARBOSOL,AM,RAS,2.0,NARBOSOLB20262,2026
+126,2026-03-02 09:26:29,2026-03-02 09:29:31,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,O&M,"MES boucle CTA terminée. 
+Contrôle périodique compteurs d'énergie + VIE armoire électrique CTA
+Tour champ solaire. Pas de fuites constatées mais quelques capteurs à suivre
+Reprise soudure cuve avortée car impossible de fermer la vanne manuelle. Nouvelle tentative courant mars avec procédure d'intervention renforcée",2.0,LACTOSOLA20262,2026
+127,2026-03-02 09:29:33,2026-03-02 09:31:12,guillaume.pradere@newheat.fr,Guillaume Pradere,LACTOSOL,AM,Prise en compte du 4ème point d'intégration pour la facturation d'énergie. ,2.0,LACTOSOLB20262,2026
+128,2026-03-02 09:31:16,2026-03-02 09:32:05,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,O&M,Changement PC IHM + automate prévu début mars entre Norealp + EPCC,2.0,AUITOUA20262,2026
+129,2026-03-02 09:32:06,2026-03-02 09:32:17,guillaume.pradere@newheat.fr,Guillaume Pradere,AUITOU,AM,TESTE POUR VOIR SI CA FONCTIONNE,2.0,AUITOUB20262,2026
