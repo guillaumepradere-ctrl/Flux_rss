@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "Message de test n°1",
+      "link": "https://example.com/item1",
+      "date": "2025-03-21T10:00:00Z",
+      "description": "Ceci est un message de test complet pour Grafana."
+    },
+    {
+      "title": "Message de test n°2",
+      "link": "https://example.com/item2",
+      "date": "2025-03-22T14:30:00Z",
+      "description": "Deuxième message affiché dans Grafana."
+    }
+  ]
+}
