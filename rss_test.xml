@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Flux RSS de test</title>
+    <description>Ceci est un flux RSS de test pour Grafana</description>
+    <link>https://example.com</link>
+    <item>
+      <title>Entrée 1</title>
+      <description>Première entrée du flux de test</description>
+      <link>https://example.com/item1</link>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
